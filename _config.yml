@@ -1,0 +1,11 @@
+# _config.yml
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      is_github_user: true
+
+exclude:
+  - README.md
+  - .htaccess
