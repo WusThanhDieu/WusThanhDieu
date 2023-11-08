@@ -25,9 +25,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="40" alt=""  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt=""  />
-  <img width="12" />
   <img src="https://logosdownload.com/logo/javascript-logo-big.png" height="40" alt="" />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt=""  />
   <img width="12" />
   <img src="https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png?v=638245916460000000" height="40" alt=""  />
   <img width="12" />
