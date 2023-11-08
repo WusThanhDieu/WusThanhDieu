@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt=""  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" height="55" alt="" style="margin: auto 10px;"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" height="55" alt="" style="margin: auto 100px;"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png?v=638245916460000000" height="40" alt=""  />
   <img width="12" />
