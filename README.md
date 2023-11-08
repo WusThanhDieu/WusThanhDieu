@@ -2,7 +2,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/404" target="_blank">
           </animated-image>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey Brother👋 Ru Ok?</h1>
 
 ###
 <p align="left">My name is ThanhDieu and I'm a Developer, from Vietnamese</p>
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ I like designer website<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ I like designer website<br>📚 I'm currently learning javascript, react<br>🎯 Years old: 20<br>🎲 Fun fact: When you die, your brothers will fuck your wife</p>
 
 ###
 
