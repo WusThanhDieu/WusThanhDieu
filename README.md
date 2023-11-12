@@ -2,7 +2,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/404" target="_blank">
           </animated-image>
-<h1 align="left">Hey Brother👋?</h1>
+<h1 align="left">Hey Brother👋</h1>
 
 ###
 <p align="left">My name is ThanhDieu and I'm a Developer, from Vietnamese</p>
