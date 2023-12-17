@@ -23,7 +23,7 @@ func (g *Github) Init() {
         "Facebook": "WusThanhDieu",
     }
     g.alises = []string{"thanhdieudev", "Tdv"}
-          g.location = "localhost, vietnamese"
+    g.location = "localhost, vietnamese"
     g.age = "20+"
     g.occupation = "Freelance Developer"
     g.operating_system = "Windows, Arch, Linux, VPS"
