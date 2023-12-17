@@ -22,7 +22,7 @@ func (g *Github) Init() {
         "Discord": "thanhdieutv#2278",
         "Facebook": "WusThanhDieu",
     }
-    g.alises = []string{"thanhdieudev", "ESC"}
+    g.alises = []string{"thanhdieudev", "Tdv"}
           g.location = "localhost, vietnamese"
     g.age = "20+"
     g.occupation = "Freelance Developer"
