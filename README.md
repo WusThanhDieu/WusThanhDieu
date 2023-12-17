@@ -24,7 +24,7 @@ func (g *Github) Init() {
     }
     g.alises = []string{"thanhdieudev", "ESC"}
           g.location = "localhost, vietnamese"
-    g.age = "Undefined"
+    g.age = "20+"
     g.occupation = "Freelance Developer"
     g.operating_system = "Windows, Arch, Linux, VPS"
 }
