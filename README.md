@@ -7,8 +7,7 @@ width="800"  height="3">
 
 </div>
 
-
-*世界上最真情的相依，是你在try我在catch。无论你发什么脾气，我都默默承受，静静处理，到那时，再来期待我们的finally*
+*The most true dependence in the world is when you are trying and I am catching. No matter what kind of temper you lose, I will bear it silently and deal with it quietly. Until then, look forward to our finally
 
 ----------
 ```golang
