@@ -6,7 +6,7 @@ width="800"  height="3">
 
 </div>
 
-*The most true dependence in the world is when you are trying and I am catching. No matter what kind of temper you lose, I will bear it silently and deal with it quietly. Until then, look forward to our finally
+*The truest form of dependence in the world is when you try, and I am there to catch you. No matter what temper you may lose, I will bear it silently and handle it calmly. Until then, I eagerly anticipate our future together
 
 ----------
 ```golang
