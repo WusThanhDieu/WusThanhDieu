@@ -29,8 +29,3 @@ func (g *Github) Init() {
     g.operating_system = "Windows, Arch, Linux, VPS"
 }
 ```
-
-<div align="center">
-<img src="https://i.imgur.com/WLt3W7q.gif"
-width="800"  height="3">
-</div>
